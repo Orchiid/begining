@@ -1,0 +1,45 @@
+.article-header {
+    padding:1rem ;
+    text-transform: uppercase;
+    font: small 'Bitter', serif;
+}
+.article-header h3{
+    font-weight: normal;
+}
+.article-header h4{
+    font-weight: normal;
+    color: #6E8C21;
+}
+.article-header img{
+    width: -webkit-fill-available;
+    height: 70vh;
+}
+.content{
+    padding:1rem ;
+}
+.content ul{
+    list-style-type: circle;
+}
+.content img{
+    width: -webkit-fill-available;
+    height: 70vh;
+}
+.recipe{
+    margin: 4rem;
+    border: 1px solid black;
+    padding:1rem ;
+    font: small 'Bitter', serif;
+}
+.recipe h1{
+    text-transform: uppercase;
+}
+.recipe ul {
+    list-style-type:circle ;
+}
+.recipe-footer{
+    background: #C26522;
+    text-transform: uppercase;
+    font: small 'Bitter', serif;
+    padding: 1rem;
+    text-align: center;
+}
