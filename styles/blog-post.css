@@ -14,6 +14,10 @@
     width: -webkit-fill-available;
     height: 70vh;
 }
+.article-header figcaption{
+    font: smaller 'Bitter', serif;
+    text-align: center;
+}
 .content{
     padding:1rem ;
 }
@@ -23,6 +27,13 @@
 .content img{
     width: -webkit-fill-available;
     height: 70vh;
+}
+.content figcaption{
+    font: smaller 'Bitter', serif;
+    text-align: center;
+}
+.content blockquote{
+    text-align: center;
 }
 .recipe{
     margin: 4rem;
